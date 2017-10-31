@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow');
+
+
+.parallax-window {
+    min-height: 120px;
+    background: transparent;
+}
+
+.container {
+    margin-right: auto;
+    margin-left: auto;
+    padding: 5px;
+}
+
+
+.headers {
+    font-family: Pacifico;
+    font-size: 3em;
+    color:rgb(0, 0, 0);
+}
+
+.butt {
+    font-family: PT Sans Narrow;
+    font-size: 100%;
+    color: red;
+    text-decoration: none;
+    border: solid red;
+    padding: 7px 5px;
+    border-radius: 9px;
+    transition: all .5s;
+}
+
+.butt:hover {
+    color: black;
+    border: solid black 3px;
+    text-decoration: none;
+}
+
+.title {
+    font-family: Pacifico;
+    font-size: 2.5em;
+    color: red;
+    padding-top: 20px;
+}
+
+.words {
+    font-family: PT Sans Narrow;
+    font-size: 2em;
+    
+}
+
+.lil {
+    font-family: Pacifico;
+    font-size: .5em;
+    color:red;
+}
+
+.pad {
+    padding: 20px;
+}
+
+.marg {
+    margin-left: 50px;
+}
+
+.italy {
+    font-style: italic;
+    color: red;
+}
